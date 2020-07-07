@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
                     fontFamily: 'Pacifico'),
               ),
               Text(
-                "FLUTTER DEVELOPER",
+                "FLUTTER",
                 style: TextStyle(
                     fontSize: 20.0,
                     fontFamily: 'Source Sans Pro',
